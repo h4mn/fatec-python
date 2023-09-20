@@ -1,0 +1,17 @@
+site_name: Fatec Python
+site_url: https://h4mn.github.io/
+nav:
+  - Home: index.md
+  - "Lista de Exercícios do 1º Encontro": lista-encontro-1.md
+  - "MKDocs": mkdocs-help.md
+theme:
+  name: readthedocs
+# plugins:
+# - mkdocstrings:
+#     enabled: !ENV [ENABLE_MKDOCSTRINGS, true]
+#     custom_templates: templates
+#     default_handler: python
+#     handlers:
+#       python:
+#         options:
+#           show_source: false
