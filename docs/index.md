@@ -8,11 +8,11 @@
 
 ## Aulas
 
-* Aula 01: [Introdução ao Python](docs/aula-01.md)
+* Aula 01: [Introdução ao Python](index.md)
 
 ## Exercícios
 
-* [Lista de Exercícios do 1º Encontro](lista-encontro-1.md)
+* [Lista de Exercícios do 1º Encontro](exercicios/listas/01.md)
 
 ---
 
